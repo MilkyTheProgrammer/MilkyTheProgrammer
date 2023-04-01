@@ -2,7 +2,7 @@
 
 ## Hi there! 👋
 
-I'm a software developer with expertise in C# and Javascript. I'm passionate about creating efficient and scalable solutions to complex problems. I have experience in developing desktop applications, game engines, and web applications.
+I'm a software developer with expertise in C# and JavaScript. I'm passionate about creating efficient and scalable solutions to complex problems. I have experience in developing desktop applications, game engines, and web applications.
 
 ### Skills
 
