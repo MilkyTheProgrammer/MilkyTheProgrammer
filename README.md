@@ -1,16 +1,26 @@
-### Hi there 👋
+[![Banner Image](https://cdn.discordapp.com/banners/1091271990469464126/a_ce72bf11aae5056480931a8e4df4e8b8.gif?size=1024)](https://github.com/MilkyTheProgrammer)
 
-<!--
-**MilkyTheProgrammer/MilkyTheProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there! 👋
 
-Here are some ideas to get you started:
+I'm a software developer with expertise in C# and Javascript. I'm passionate about creating efficient and scalable solutions to complex problems. I have experience in developing desktop applications, game engines, and web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- C#
+- Lua
+- .NET Framework
+- Unity Engine
+- HTML/CSS
+- JavaScript
+
+### Projects
+
+- [MPP Dev](https://www.multiplayerpiano.dev) - A multiplayer piano clone.
+
+### Contact Me
+
+#### Discord: Milky#0001
+
+![Metrics](https://github-readme-stats.vercel.app/api?username=MilkyTheProgrammer&show_icons=true&theme=dark)
+
+![Fard](https://github-readme-stats.vercel.app/api/top-langs/?username=MilkyTheProgrammer&layout=compact&theme=dark)
